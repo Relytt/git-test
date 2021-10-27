@@ -13,3 +13,14 @@ This is a reference list of the most commonly used Git commands. (You might cons
 ### Commands related to checking status or log history
 - git status
 - git log
+
+## Git Push
+- pushes the committed files to the hosted repository (github)
+## Git Add
+- Adds the files you've changed to the staging area
+## Git Status
+- Shows which files are in the staging area and which aren't
+## Git Commit
+- commits the files in staging area to your local repository and you can add a message with ( -m "message description")
+## Git Pull
+- Pulls the most updated version of the code to your computer from github
